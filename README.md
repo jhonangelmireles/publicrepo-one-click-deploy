@@ -1,4 +1,4 @@
-[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/jhonangelmireles/publicrepo-one-click-deploy)
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://github.com/jhonangelmireles/publicrepo-one-click-deploy/tree/master)
 
 # Getting Started with Create React App
 
